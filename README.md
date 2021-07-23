@@ -1,6 +1,6 @@
 # Adoption-Center-Management
 
-The following system is made to manage the adoption activity in the adoption center for cats and dogs.
+The following system is made to manage the adoption activity in the adoption center for cats and dogs. The project has been created using the concept of Object Oriented Programming(OOP).
 
 The following tasks are being performed in the application here:
 
